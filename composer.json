@@ -1,0 +1,9 @@
+{
+    "name": "tvoyo/localhost",
+    "type": "project",
+    "require": {
+		"php-amqplib/php-amqplib": ">=3.0",
+        "vlucas/phpdotenv": "^5.3",
+        "vladimir163/lead-generator": "*"
+	}
+}
